@@ -18,7 +18,7 @@ int main()
          }
          if (a != c && b !=c && a == b)
          {
-            printf("e isoscele");
+            printf("e isoscele"); 
          }
          if (a == b && b == c && a == c)
          {
